@@ -1,0 +1,9 @@
+.env
+.env.*
+*.key
+*.pem
+*credentials*
+*htpasswd*
+data/
+private/
+node_modules/
